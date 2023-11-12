@@ -2,7 +2,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikigasa&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sikigasa&theme=onedark&show_icons=ture" />
   <hr>
-  <img alt="github trophy" src="https://github-profile-trophy.vercel.app/?username=sikigasa&theme=onedark&column=-1" />
+  <img alt="github trophy" src="https://github-profile-trophy.vercel.app/?username=sikigasa&theme=onedark&row=2" />
 </p>
 
 <!--
