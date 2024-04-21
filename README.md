@@ -3,7 +3,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sikigasa&theme=onedark&show_icons=ture" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sikigasa&theme=onedark)
+<img alt="Top Langs" height="100px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sikigasa&theme=onedark" />
 <hr>
 
 ![](https://github-profile-trophy.vercel.app/?username=sikigasa&theme=onedark)
