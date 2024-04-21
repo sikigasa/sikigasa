@@ -1,4 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sikigasa&layout=compact&show_icons=true&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sikigasa&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=sikigasa&theme=onedark&show_icons=ture)
 <hr>
 
