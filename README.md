@@ -1,6 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sikigasa&layout=compact&show_icons=true&theme=onedark)
 ![](https://github-readme-stats.vercel.app/api?username=sikigasa&theme=onedark&show_icons=ture)
-![](http://github-profile-summary-cards.vercel.app/api/cards/commit-language?username=sikigasa&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sikigasa&theme=onedark)
 <hr>
 
 ![](https://github-profile-trophy.vercel.app/?username=sikigasa&theme=onedark)
