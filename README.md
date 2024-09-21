@@ -7,3 +7,5 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sikigasa&theme=onedark)
 <!--   <img alt="github contribute" width= "100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sikigasa&theme=github" /> -->
+
+<!--skill iconを入れる -->
