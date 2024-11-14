@@ -8,4 +8,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=sikigasa&theme=onedark)
 <!--   <img alt="github contribute" width= "100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sikigasa&theme=github" /> -->
 
-<!--skill iconを入れる b: go, java?, ts, rust f:? m: dart kotlin,java -->
+<!--skill iconを入れる b: go, java?, ts, rust f:react? m: dart kotlin,java -->
