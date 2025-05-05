@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go,java,rust,py,grpc)](https://skillicons.dev)
 
 ## mobile
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,dart)](https://skillicons.dev)
 
 ## frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,vite)](https://skillicons.dev)
