@@ -17,10 +17,13 @@
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,android)](https://skillicons.dev)
 
 ## frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,cs,ts,nodejs,react,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,cs,ts,nodejs,react,vite)](https://skillicons.dev)
+
+## other
+[![My Skills](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
 
 # Tools
-[![My Skills](https://skillicons.dev/icons?i=windows,notion,unity,blender,vscode,figma,git,github,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,notion,unity,blender,vscode,figma,git,github,cloudflare,discord)](https://skillicons.dev)
 
 
 <!--
