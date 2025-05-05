@@ -8,15 +8,22 @@
 ![](https://github-profile-trophy.vercel.app/?username=sikigasa&theme=onedark)
 <!--   <img alt="github contribute" width= "100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sikigasa&theme=github" /> -->
 
-<!--# Tools
-[![My Skills](https://skillicons.dev/icons?i=windows,notion,obsidian,codepen,unity,blender,vscode,figma,git,github,cloudflare,vercel,supabase)](https://skillicons.dev)
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=nodejs,electron,vite,svelte,p5js,threejs)](https://skillicons.dev)
+## backend
+[![My Skills](https://skillicons.dev/icons?i=go,java,rust,python)](https://skillicons.dev)
 
-# Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,cs,lua)](https://skillicons.dev)
+## mobile
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,android)](https://skillicons.dev)
 
+## frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,cs,ts,nodejs,react,vite)](https://skillicons.dev)
+
+# Tools
+[![My Skills](https://skillicons.dev/icons?i=windows,notion,unity,blender,vscode,figma,git,github,cloudflare)](https://skillicons.dev)
+
+
+<!--
 # Learning
 [![My Skills](https://skillicons.dev/icons?i=cpp,linux,rust,tauri,unreal)](https://skillicons.dev)
 b: go, java?, ts, rust f:react? m: dart kotlin,java -> n -->
