@@ -11,19 +11,19 @@
 
 # Skills
 ## backend
-[![My Skills](https://skillicons.dev/icons?i=go,java,rust,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,rust,py,grpc)](https://skillicons.dev)
 
 ## mobile
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,android)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,dart)](https://skillicons.dev)
 
 ## frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,vite)](https://skillicons.dev)
 
 ## other
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,postgresql,mariadb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,postgres,mongodb,sqlite,md)](https://skillicons.dev)
 
 # Tools
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,notion,unity,blender,vscode,figma,git,github,cloudflare,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,notion,unity,blender,vscode,androidstudio,figma,git,github,cloudflare,discord)](https://skillicons.dev)
 
 
 <!--
