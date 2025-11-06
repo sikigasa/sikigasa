@@ -11,7 +11,7 @@
 
 # Skills
 ## backend
-[![My Skills](https://skillicons.dev/icons?i=go,py,java,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,java,rust,ruby)](https://skillicons.dev)
 
 ## mobile
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,dart)](https://skillicons.dev)
@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,postgres,mongodb,sqlite,md)](https://skillicons.dev)
 
 # Tools
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,notion,unity,blender,vscode,androidstudio,figma,git,github,cloudflare,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,notion,unity,blender,vscode,androidstudio,figma,git,github,cloudflare,gcp,discord)](https://skillicons.dev)
 
 
 <!--
