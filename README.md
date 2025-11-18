@@ -11,7 +11,7 @@
 
 # Skills
 ## backend
-[![My Skills](https://skillicons.dev/icons?i=go,py,java,rust,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,java,rust,ts,ruby)](https://skillicons.dev)
 
 ## mobile
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,dart)](https://skillicons.dev)
