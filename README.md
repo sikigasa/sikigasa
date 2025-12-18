@@ -5,9 +5,12 @@
   <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sikigasa&theme=onedark" />
   <img alt="github contribute" width= "80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sikigasa&theme=onedark" />
 </p>
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=sikigasa)
 <hr>
 
 ![](https://github-profile-trophy.vercel.app/?username=sikigasa&theme=onedark)
+![github-stats](https://stats.hyo.dev/api/github-stats?login=sikigasa)
+
 
 
 
