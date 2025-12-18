@@ -9,6 +9,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sikigasa&theme=onedark)
 <!-- ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=sikigasa) -->
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=sikigasa)
 
 
 
